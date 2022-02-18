@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">COSC253-HW5-FunCups</string>
+    <string name="app_name">Fun Cups</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <!-- Button strings -->
+    <string name="start">START</string>
+    <string name="stats">STATS</string>
+    <string name="back">BACK</string>
+    <string name="add">ADD THEME</string>
+    <string name="save">SAVE</string>
 </resources>
